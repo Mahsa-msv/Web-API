@@ -1,0 +1,95 @@
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\APItask.exe.config
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\APItask.exe
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\APItask.pdb
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Buffers.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Memory.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Buffers.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Memory.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.APIvalues.resources
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.Properties.Resources.resources
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.csproj.GenerateResource.cache
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.csproj.CoreCompileInputs.cache
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.csproj.CopyComplete
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.exe
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.pdb
+C:\Users\s.mousavi\Source\Repos\APItask\APItask\obj\Debug\APItask.csprojAssemblyReference.cache
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\APItask.exe.config
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\APItask.exe
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\APItask.pdb
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Buffers.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Memory.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Buffers.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Memory.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.APIvalues.resources
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.Properties.Resources.resources
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.csproj.GenerateResource.cache
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.csproj.CopyComplete
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.exe
+C:\Users\Mahsa_PC\Desktop\Proje\Sherkat\APItask\APItask\obj\Debug\APItask.pdb
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\APItask.exe.config
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\APItask.exe
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\APItask.pdb
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\Newtonsoft.Json.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\SQLitePCLRaw.core.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Buffers.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Memory.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Numerics.Vectors.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\Newtonsoft.Json.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Buffers.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Memory.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Numerics.Vectors.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ParsPack\Final project\APItask\APItask\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.csprojAssemblyReference.cache
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.APIvalues.resources
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.Properties.Resources.resources
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.csproj.GenerateResource.cache
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.csproj.CoreCompileInputs.cache
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.csproj.CopyComplete
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.exe
+E:\ParsPack\Final project\APItask\APItask\obj\Debug\APItask.pdb
